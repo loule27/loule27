@@ -16,7 +16,3 @@ src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx0
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loule27&show_icons=true&locale=en&layout=compact" />
-</p>
